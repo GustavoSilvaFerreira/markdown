@@ -6,6 +6,7 @@
 2. Itálicos, Negritos e Negritos Itálicos
 3. Parágrafos com destaque
 4. Criação de hyperlinks
+5. Criando snippets de código
 
 ## Headers
 
@@ -47,3 +48,32 @@ A criação de hyperlinks é feita através dos símbolos [](). Onde o conteúdo
 Ex: [Google](https://www.google.com)
 
 [Voltar ao índice](#índice)
+
+## Criando snippets de código
+Para criar snippets de código (partes de código) basta utilizar o símbolo de crase 3 vezes junto com a linguagem do snippet.
+
+```java
+public static void main(String[] args){
+System.out.println("Teste de snippet");
+}
+```
+
+```python
+def teste(){
+
+}
+```
+
+```javascript
+function bla(){
+document.getElementById("teste");
+}
+```
+
+```json
+{
+"firstName": "John",
+"lastName": "Smith",
+"age": 25
+}
+```
