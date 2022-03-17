@@ -90,6 +90,4 @@ Para criar listas não-ordenadas, utiliza-se o símbolo - no começo da linha.
 - linha 2
 - linha 3
 
-
-
 [Voltar ao índice](#índice)
