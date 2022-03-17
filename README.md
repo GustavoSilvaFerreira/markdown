@@ -8,6 +8,8 @@
 [4. Criação de hyperlinks](#criação-de-hyperlinks)
 [5. Criando snippets de código](#criando-snippets-de-código)
 [6. Listas não ordenadas](#listas-não-ordenadas)
+[7. Listas ordenadas](#listas-ordenadas)
+
 
 ## Headers
 
@@ -89,5 +91,13 @@ Para criar listas não-ordenadas, utiliza-se o símbolo - no começo da linha.
 - linha 1
 - linha 2
 - linha 3
+
+[Voltar ao índice](#índice)
+
+## Listas ordenadas
+Para criação de listas ordenadas, utiliza-se o número seguido de um ponto no começo da linha.
+1. linha 1
+2. linha 2
+3. linha 3
 
 [Voltar ao índice](#índice)
