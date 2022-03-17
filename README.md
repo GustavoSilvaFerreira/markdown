@@ -2,11 +2,11 @@
 
 ## Índice
 
-1. Headers
-2. Itálicos, Negritos e Negritos Itálicos
-3. Parágrafos com destaque
-4. Criação de hyperlinks
-5. Criando snippets de código
+[1. Headers](#headers)
+[2. Itálicos, Negritos e Negritos Itálicos](#itálicos-negritos-e-negritos-itálicos)
+[3. Parágrafos com destaque](#parágrafo-com-destaque)
+[4. Criação de hyperlinks](#criação-de-hyperlinks)
+[5. Criando snippets de código](#criando-snippets-de-código)
 
 ## Headers
 
@@ -32,6 +32,8 @@ Uma palavra cercada por 2 asteriscos em cada lado terá seu formato modificado p
 
 Uma palavra cercada por 3 asteriscos em cada lado terá seu formato modificado para ***negrito/itálico***.
 
+[Voltar ao índice](#índice)
+
 ## Parágrafo com destaque
 
 Para escrever um parágrafo com destaque, utilizamos o símbolo >.
@@ -41,6 +43,8 @@ Para escrever um parágrafo com destaque, utilizamos o símbolo >.
 > e assim por diante.  
 
 Os paragráfos acima estão destacados do restante do texto escrito.
+
+[Voltar ao índice](#índice)
 
 ## Criação de hyperlinks
 
@@ -77,3 +81,4 @@ document.getElementById("teste");
 "age": 25
 }
 ```
+[Voltar ao índice](#índice)
