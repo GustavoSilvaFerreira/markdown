@@ -7,6 +7,7 @@
 [3. Parágrafos com destaque](#parágrafo-com-destaque)
 [4. Criação de hyperlinks](#criação-de-hyperlinks)
 [5. Criando snippets de código](#criando-snippets-de-código)
+[6. Listas não ordenadas](#listas-não-ordenadas)
 
 ## Headers
 
@@ -81,4 +82,14 @@ document.getElementById("teste");
 "age": 25
 }
 ```
+[Voltar ao índice](#índice)
+
+## Listas não-ordenadas
+Para criar listas não-ordenadas, utiliza-se o símbolo - no começo da linha.
+- linha 1
+- linha 2
+- linha 3
+
+
+
 [Voltar ao índice](#índice)
